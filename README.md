@@ -1,0 +1,2 @@
+The code used for my master thesis "Data-Driven Exploration of SiC MOSFET Aging Using Symbolic Regression". The symbolic regression was implemnted by utilzing PySR. The main code for the regression is V_vs_T and V_vs_CL where I looked for equations desrbing how volatage is related to temperature and consumedlife. 
+The python file for data cleaning is the collection of the functions derived in the correspoding jupyter file. 
